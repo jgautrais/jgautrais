@@ -27,7 +27,7 @@ I’m currently learning <img src="https://img.shields.io/badge/Sass-CC6699?styl
 
 ### How to reach me
 
-<a href="https://www.linkedin.com/in/jgautrais/" targte="_blank">
+<a href="https://www.linkedin.com/in/jgautrais/" target="_blank">
   <img align="left" alt="Jeremy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
