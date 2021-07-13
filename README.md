@@ -1,4 +1,4 @@
-### 👋 Hi ! I'm <a href="https://www.jeremygautrais.fr/">Jérémy</a>,<br>
+### 👋 Hi ! I'm <a href="https://www.jeremygautrais.fr/" target="_blank">Jérémy</a>,<br>
 I'm a self-taught front-end web developer.<br>
 You can see here the projects I've been working on.
 <br>
