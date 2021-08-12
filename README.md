@@ -1,5 +1,5 @@
 ### 👋 Hi ! I'm <a href="https://www.jeremygautrais.fr/" target="_blank">Jérémy</a>,<br>
-I'm a self-taught front-end web developer, based in Lyon, FR.<br>
+I'm a front-end web developer, based in Lyon, FR.<br>
 I mostly work with <a href="https://www.mongodb.com/mern-stack/" target="_blank">MERN</a> stack at the moment.<br />
 You can see here the projects I've been working on.
 <br>
