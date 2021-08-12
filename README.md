@@ -1,10 +1,14 @@
 ### 👋 Hi ! I'm <a href="https://www.jeremygautrais.fr/" target="_blank">Jérémy</a>,<br>
-I'm a self-taught front-end web developer.<br>
+I'm a self-taught front-end web developer, based in Lyon, FR.<br>
+I mostly work with <a href="https://www.mongodb.com/mern-stack/" target="_blank">MERN</a> stack at the moment.<br />
 You can see here the projects I've been working on.
 <br>
+<br>
 
-I’m currently learning <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React.js" height="25" />,   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="25" /> and <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /> / 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /> framework.
+#### I’m currently learning:<br> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React.js" height="25" /><br>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="25" /><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /> &nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" />
 <br>
 <br>
 ### Languages & Tools
@@ -23,8 +27,8 @@ I’m currently learning <img src="https://img.shields.io/badge/React-20232A?sty
 
 
 ### I'm willing to learn in the future
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby logo" title="Gatsby" height="25" />&nbsp;/ <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby logo" title="Gatsby" height="25" />&nbsp; <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js logo" title="Next.js" height="25" /><br>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
 
 <br>
 
