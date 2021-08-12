@@ -38,7 +38,10 @@ I’m currently learning <img src="https://img.shields.io/badge/React-20232A?sty
 <br>
 <br>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=jgautraisf&repo=jgautrais&countColor=%232ccce4)
+
+<a href="https://www.jeremygautrais.fr/" target="_blank">jeremygautrais.fr</a>
+
+<!--![](https://api.visitorbadge.io/api/VisitorHit?user=jgautraisf&repo=jgautrais&countColor=%232ccce4)-->
 
 
 <!---
