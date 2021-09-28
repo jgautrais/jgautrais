@@ -1,5 +1,5 @@
 ### 👋 Hi ! I'm <a href="https://www.jeremygautrais.fr/" target="_blank">Jérémy</a>,<br>
-I'm a front-end web developer, based in Lyon, FR.<br>
+I'm a JS/PHP web developer, based in Lyon, FR.<br>
 I'm mostly experimenting with Next.js, Tailwind and PHP language at the moment.<br />
 You can see here the projects I've been working on.
 <br>
