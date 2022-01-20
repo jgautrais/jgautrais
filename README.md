@@ -32,7 +32,8 @@ You can see here the projects I've been working on.
 <a href="https://www.linkedin.com/in/jgautrais/" target="_blank">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars logo" title="Code Wars" height="25" />
 </a>
-
+<br>
+<br>
 
 ### I'm willing to learn in the future
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" />&nbsp;
