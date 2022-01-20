@@ -29,6 +29,9 @@ You can see here the projects I've been working on.
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 <br>
 <br>
+<a href="https://www.linkedin.com/in/jgautrais/" target="_blank">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars logo" title="Code Wars" height="25" />
+</a>
 
 
 ### I'm willing to learn in the future
