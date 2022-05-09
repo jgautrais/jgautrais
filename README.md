@@ -8,6 +8,7 @@ You can see here the projects I've been working on.
 #### I’m currently learning:<br> 
 
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" alt="Symfony logo" title="Symfony" height="25" />&nbsp;
+
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" />&nbsp; 
 <br>
 <br>
@@ -38,7 +39,7 @@ You can see here the projects I've been working on.
 
 ### I'm willing to learn in the future
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" />&nbsp;
-
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />&nbsp;
 <br>
 
 
