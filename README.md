@@ -46,7 +46,7 @@ You can see here the projects I've been working on.
 ### How to reach me
 
 <a href="https://www.linkedin.com/in/jgautrais/" target="_blank">
-  <img align="left" alt="Jeremy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jeremy's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br>
 <br>
